@@ -1,0 +1,427 @@
+{
+    "results": [
+        {
+            "fsq_id": "50147cbde4b06b8dcc50aa61",
+            "categories": [
+                {
+                    "id": 13031,
+                    "name": "Burger Joint",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 4599,
+            "geocodes": {
+                "main": {
+                    "latitude": -30.094535,
+                    "longitude": -51.082121
+                }
+            },
+            "link": "/v3/places/50147cbde4b06b8dcc50aa61",
+            "location": {
+                "address": "Rua Ns de Fatima, 55 Viamopolis",
+                "country": "BR",
+                "cross_street": "",
+                "formatted_address": "Rua Ns de Fatima, 55 Viamopolis, Viam\u00e3o, RS, 94470-500",
+                "locality": "Viam\u00e3o",
+                "neighborhood": [
+                    "Viam\u00f3polis"
+                ],
+                "postcode": "94470-500",
+                "region": "RS"
+            },
+            "name": "Xis da Rosane",
+            "related_places": {},
+            "timezone": "America/Sao_Paulo"
+        },
+        {
+            "fsq_id": "530e0cf4498e140e062570cb",
+            "categories": [
+                {
+                    "id": 13034,
+                    "name": "Caf\u00e9",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 5003,
+            "geocodes": {
+                "main": {
+                    "latitude": -30.072553,
+                    "longitude": -51.119723
+                }
+            },
+            "link": "/v3/places/530e0cf4498e140e062570cb",
+            "location": {
+                "address": "UFRGS - Campus do Vale",
+                "country": "BR",
+                "cross_street": "Inst. de F\u00edsica",
+                "formatted_address": "UFRGS - Campus do Vale (Inst. de F\u00edsica), Porto Alegre, RS, 90540-000",
+                "locality": "Porto Alegre",
+                "postcode": "90540-000",
+                "region": "RS"
+            },
+            "name": "Caf\u00e9 da F\u00edsica",
+            "related_places": {
+                "parent": {
+                    "fsq_id": "4ce6fa32f86537049a4ca6c4",
+                    "name": "Instituto de F\u00edsica"
+                }
+            },
+            "timezone": "America/Sao_Paulo"
+        },
+        {
+            "fsq_id": "4d51df4cd7eaa143290b780f",
+            "categories": [
+                {
+                    "id": 16027,
+                    "name": "Mountain",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/mountain_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 4694,
+            "geocodes": {
+                "main": {
+                    "latitude": -30.158329,
+                    "longitude": -51.134588
+                },
+                "roof": {
+                    "latitude": -30.158329,
+                    "longitude": -51.134588
+                }
+            },
+            "link": "/v3/places/4d51df4cd7eaa143290b780f",
+            "location": {
+                "address": "Rua Santo In\u00e1cio",
+                "country": "BR",
+                "cross_street": "Rua Engenheiro Alvaro Nunes Pereira",
+                "formatted_address": "Rua Santo In\u00e1cio (Rua Engenheiro Alvaro Nunes Pereira), Porto Alegre, RS, 90570-150",
+                "locality": "Porto Alegre",
+                "postcode": "90570-150",
+                "region": "RS"
+            },
+            "name": "Morro Ricaldone",
+            "related_places": {},
+            "timezone": "America/Sao_Paulo"
+        },
+        {
+            "fsq_id": "4ebfd1299adfe2b7b6292fb0",
+            "categories": [
+                {
+                    "id": 17067,
+                    "name": "Fruit and Vegetable Store",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 6002,
+            "geocodes": {
+                "main": {
+                    "latitude": -30.160339,
+                    "longitude": -51.159827
+                },
+                "roof": {
+                    "latitude": -30.160339,
+                    "longitude": -51.159827
+                }
+            },
+            "link": "/v3/places/4ebfd1299adfe2b7b6292fb0",
+            "location": {
+                "address": "Avenida Edgar Pires de Castro, 3295",
+                "country": "BR",
+                "cross_street": "",
+                "formatted_address": "Avenida Edgar Pires de Castro, 3295, Porto Alegre, RS, 91787-000",
+                "locality": "Porto Alegre",
+                "neighborhood": [
+                    "H\u00edpica"
+                ],
+                "post_town": "Aberta Morros",
+                "postcode": "91787-000",
+                "region": "RS"
+            },
+            "name": "Sacol\u00e3o da Ch\u00e1cara",
+            "related_places": {},
+            "timezone": "America/Sao_Paulo"
+        },
+        {
+            "fsq_id": "52c9dbcb498ecccd1632e3e0",
+            "categories": [
+                {
+                    "id": 10000,
+                    "name": "Arts and Entertainment",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 5412,
+            "geocodes": {
+                "main": {
+                    "latitude": -30.0845,
+                    "longitude": -51.080535
+                }
+            },
+            "link": "/v3/places/52c9dbcb498ecccd1632e3e0",
+            "location": {
+                "country": "BR",
+                "cross_street": "",
+                "formatted_address": "Rio Grande do Sul",
+                "locality": "Viam\u00f3polis",
+                "postcode": "",
+                "region": "RS"
+            },
+            "name": "Terren\u00e3o",
+            "related_places": {},
+            "timezone": "America/Sao_Paulo"
+        },
+        {
+            "fsq_id": "4fdbddede4b09473e13877c6",
+            "categories": [
+                {
+                    "id": 13058,
+                    "name": "Hot Dog Joint",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/hotdog_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 5146,
+            "geocodes": {
+                "main": {
+                    "latitude": -30.072851,
+                    "longitude": -51.108332
+                }
+            },
+            "link": "/v3/places/4fdbddede4b09473e13877c6",
+            "location": {
+                "address": "Avenida Liberdade",
+                "country": "BR",
+                "cross_street": "",
+                "formatted_address": "Avenida Liberdade, Porto Alegre, RS",
+                "locality": "Porto Alegre",
+                "postcode": "",
+                "region": "RS"
+            },
+            "name": "Cachorro Americano",
+            "related_places": {},
+            "timezone": "America/Sao_Paulo"
+        },
+        {
+            "fsq_id": "4fbf9f5fe4b0c9fe0515fe44",
+            "categories": [
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13039,
+                    "name": "Deli",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [
+                {
+                    "id": "ab4bee40-d68a-012e-5619-003048cad9da",
+                    "name": "Subway"
+                }
+            ],
+            "distance": 6185,
+            "geocodes": {
+                "main": {
+                    "latitude": -30.165355,
+                    "longitude": -51.154999
+                },
+                "roof": {
+                    "latitude": -30.165355,
+                    "longitude": -51.154999
+                }
+            },
+            "link": "/v3/places/4fbf9f5fe4b0c9fe0515fe44",
+            "location": {
+                "address": "Avenida Edgar Pires de Castro, 4100",
+                "address_extended": "lj 2",
+                "country": "BR",
+                "formatted_address": "Avenida Edgar Pires de Castro, 4100, Porto Alegre, RS, 91787-000",
+                "locality": "Porto Alegre",
+                "postcode": "91787-000",
+                "region": "RS"
+            },
+            "name": "Subway",
+            "related_places": {},
+            "timezone": "America/Sao_Paulo"
+        },
+        {
+            "fsq_id": "50797ae8e4b06fd3a9bcd1a4",
+            "categories": [
+                {
+                    "id": 11061,
+                    "name": "Health and Beauty Service",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/salon_barber_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 4641,
+            "geocodes": {
+                "main": {
+                    "latitude": -30.088034,
+                    "longitude": -51.088071
+                },
+                "roof": {
+                    "latitude": -30.088034,
+                    "longitude": -51.088071
+                }
+            },
+            "link": "/v3/places/50797ae8e4b06fd3a9bcd1a4",
+            "location": {
+                "address": "Parada 40",
+                "country": "BR",
+                "formatted_address": "Parada 40, Viam\u00e3o, RS",
+                "locality": "Viam\u00e3o",
+                "postcode": "",
+                "region": "RS"
+            },
+            "name": "Tutu Art Fashion",
+            "related_places": {},
+            "timezone": "America/Sao_Paulo"
+        },
+        {
+            "fsq_id": "50bfd91ce4b0b9f403fae5f9",
+            "categories": [
+                {
+                    "id": 13010,
+                    "name": "Dive Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13030,
+                    "name": "Buffet",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13064,
+                    "name": "Pizzeria",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 5949,
+            "geocodes": {
+                "main": {
+                    "latitude": -30.065356,
+                    "longitude": -51.107594
+                },
+                "roof": {
+                    "latitude": -30.065356,
+                    "longitude": -51.107594
+                }
+            },
+            "link": "/v3/places/50bfd91ce4b0b9f403fae5f9",
+            "location": {
+                "address": "Avenida Liberdade, 1820",
+                "country": "BR",
+                "cross_street": "",
+                "formatted_address": "Avenida Liberdade, 1820, Viam\u00e3o, RS, 94480-500",
+                "locality": "Viam\u00e3o",
+                "post_town": "Santa Isabel",
+                "postcode": "94480-500",
+                "region": "RS"
+            },
+            "name": "Boteco Cabritos",
+            "related_places": {},
+            "timezone": "America/Sao_Paulo"
+        },
+        {
+            "fsq_id": "4e261d89c65bb6120fc90f75",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 5547,
+            "geocodes": {
+                "main": {
+                    "latitude": -30.069222,
+                    "longitude": -51.107067
+                }
+            },
+            "link": "/v3/places/4e261d89c65bb6120fc90f75",
+            "location": {
+                "address": "Rua Breno Cardia Alves, 58",
+                "country": "BR",
+                "cross_street": "",
+                "formatted_address": "Rua Breno Cardia Alves, 58, Viam\u00e3o, RS, 94480-640",
+                "locality": "Viam\u00e3o",
+                "neighborhood": [
+                    "Santa Isabel"
+                ],
+                "post_town": "Santa Isabel",
+                "postcode": "94480-640",
+                "region": "RS"
+            },
+            "name": "P\u00f4r do Sol Bier Bar",
+            "related_places": {},
+            "timezone": "America/Sao_Paulo"
+        }
+    ],
+    "context": {
+        "geo_bounds": {
+            "circle": {
+                "center": {
+                    "latitude": -30.117536111111,
+                    "longitude": -51.1219
+                },
+                "radius": 18000
+            }
+        }
+    }
+}
